@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\KontWorkApp\KontWorkApp\bin\Debug\KontWorkApp.exe.config
+C:\Users\Student\Documents\KontWorkApp\KontWorkApp\bin\Debug\KontWorkApp.exe
+C:\Users\Student\Documents\KontWorkApp\KontWorkApp\bin\Debug\KontWorkApp.pdb
+C:\Users\Student\Documents\KontWorkApp\KontWorkApp\obj\Debug\KontWorkApp.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\KontWorkApp\KontWorkApp\obj\Debug\KontWorkApp.exe
+C:\Users\Student\Documents\KontWorkApp\KontWorkApp\obj\Debug\KontWorkApp.pdb
